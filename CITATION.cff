@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Ramirez-Tovar
+    given-names: David-Emmanuel
+    orcid: 
+title: "An IoT Autonomic Architecture for Self-replicating and Self-assembly Systems"
+version: 2.0.4
+identifiers:
+  - type: doi
+    value: 
+date-released: 2024-22-12
